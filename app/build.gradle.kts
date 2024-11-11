@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.dicoding.mycustomview"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.dicoding.mycustomview"
